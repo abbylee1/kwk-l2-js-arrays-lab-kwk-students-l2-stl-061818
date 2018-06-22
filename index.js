@@ -18,5 +18,5 @@ const drivers = ["Milo", "Otis", "Garfield"]
  }
  
  function appendDriver(name) {
-   
+   let name = 
  }

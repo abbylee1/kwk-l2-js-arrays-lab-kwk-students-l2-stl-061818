@@ -13,4 +13,8 @@ const drivers = ["Milo", "Otis", "Garfield"]
    drivers.pop()
  }
  
- function 
+ function destructivelyRemoveFirstDriver(name) {
+   drivers.shift()
+ }
+ 
+ 

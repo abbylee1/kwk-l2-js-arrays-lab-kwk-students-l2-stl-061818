@@ -18,5 +18,6 @@ const drivers = ["Milo", "Otis", "Garfield"]
  }
  
  function appendDriver(name) {
+   name = [name]
    return name.concat(drivers)
  }
